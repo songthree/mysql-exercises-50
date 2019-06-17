@@ -1,1 +1,7 @@
 解决方案
+
+1.
+select t_name,count(t_name) from Teacher 
+where t_name like "李%";
+
+2.
